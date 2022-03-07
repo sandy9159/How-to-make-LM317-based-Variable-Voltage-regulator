@@ -27,7 +27,6 @@ So lets begin the tutorial first we’ll see the list of components required.
 
 > LM317
 
-
 > 230V to 12-0-12 Transformer
 
 > 1000uF 35V capacitor
@@ -56,7 +55,7 @@ So lets begin the tutorial first we’ll see the list of components required.
 
 ## Circuit Drawing
 
-![image](https://user-images.githubusercontent.com/19898602/156958138-7229130c-1596-4108-833e-e6277e8dc97a.png)
+![image](https://user-images.githubusercontent.com/19898602/156958273-a28f12c6-da00-49ca-93ee-e4616d751199.png)
 
 As you can see above given image is the basic circuit design of Variable voltage regulator using LM317 IC.
 
@@ -92,10 +91,16 @@ visit [JLCPCB.com](https://jlcpcb.com/IAT) for High quality PCB and discount cou
 As you can see in circuit drawing the first step is to convert AC voltage into DC which is also known as rectifier circuit.
 If you are readily giving DC supply as input to voltage regulator IC then you can skip 1st and 2nd circuit.
 
+![image](https://user-images.githubusercontent.com/19898602/156958350-ecf2cd3e-b0e1-4b66-9af2-a00ef7a00ec9.png)
+
+
 Obviously we need low voltage level so first we need to step down our main 230V AC supply to 24V AC.
 for that here I have used a 230V to 12-0-12 0 1Amps step down transformer.
 Transformer have two windings primary and secondary.
 we are giving 230V AC to the primary winding and it is step down to 12-0-12 voltage on secondary winding.
+
+![image](https://user-images.githubusercontent.com/19898602/156958400-bcf71b0b-9dc3-49b1-813b-ee1038d0c40d.png)
+
 
 ![image](https://user-images.githubusercontent.com/19898602/129754174-6b245e8a-02be-48ee-9db0-afecb801d6ec.png)
 
@@ -106,10 +111,18 @@ So we used here 4 nos. FR207 diode which convert 12-0-12 V AC to 24V DC.
 FR207 can handle upto 2amps which is more than enough for us.
 Basically your diode rating must higher than the Max secondary winding amps rating of transformer.
 
+
+![image](https://user-images.githubusercontent.com/19898602/156958435-1f062f5a-f336-40c5-8681-6f06fc23cf77.png)
+
+
 ![image](https://user-images.githubusercontent.com/19898602/129754224-347c66fe-5e20-4da9-a0a2-31444894a924.png)
 
 
 As per above image we can under stand that by giving 12V AC at junction of diode D3, D1 & D4,D2 we get +24V DC at junction of diode D1 & D2 and -24VDC at junction of diode D3 & D4.
+
+
+![image](https://user-images.githubusercontent.com/19898602/156958489-b679eb11-d3fb-4b00-9324-57cb4eb11fad.png)
+
 
 ## Smoothing/Filter Circuit
 
@@ -255,6 +268,7 @@ I this way we have build our own LM317 based linear variable voltage regulator c
 Hope you understand the concept very well this will help you to design your own circuit with concept clear in mind.
 
 
+![image](https://user-images.githubusercontent.com/19898602/156958532-128648b4-21d7-4a7f-bd17-11dfb017baa9.png)
 
 
 
