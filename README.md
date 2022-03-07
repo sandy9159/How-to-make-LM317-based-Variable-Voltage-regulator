@@ -73,8 +73,17 @@ I divide the whole circuit in Four part this will help us to understand circuit 
 > Variable voltage output
 
 I have prepared the whole circuit on Zero PCB but I also designed its Gerber file so that you can order PCB and make your project more professional.
-I always prefer visit [JLCPCB.com](https://jlcpcb.com/IAT) because they offering high quality PCB in reasonable price in very short time so why go elsewhere 
-visit [JLCPCB.com](https://jlcpcb.com/IAT) for High quality PCB and discount coupons on first order.
+Yes PCB are the heart of the electronics based project usually we hesitate to try custom PCB and opt to homemade solutions
+like breadboard or Zero PCB earlier I also was in the same boat, I hesitate to try custom PCB my belief was they are much expensive.
+but then I came to know about [JLCPCB.com](https://jlcpcb.com/IAT) and I was totally surprised how low price PCB's are they offering 
+not only PCB [JLCPCB.com](https://jlcpcb.com/IAT) is one-stop service from  PCB design and PCB prototype to PCB assembly to PCB enclosures,
+SMT Assembly service of [JLCPCB.com](https://jlcpcb.com/IAT) is cherry on top now get your PCB fully assembled and save our time and money
+Select components for your PCB from there Parts Library of 200k+ in-stock components (689 Basic components and 200k+ Extended components)
+they are offering $27 valued New User coupon  & $24 SMT coupons every month
+$8.00 setup fee, and $0.0017  per joint
+Now no need to order components 
+separately for you PCB and get free from stress of soldering them on PCB just try PCB SMT assembly service and get you PCB with components pre assembled ready for the project
+Foe more detials & offers please visit [JLCPCB.com](https://jlcpcb.com/IAT)
 
 ![image](https://user-images.githubusercontent.com/19898602/129755575-41d369aa-cf53-449f-a1b0-30c94a51489b.png)
 ![image](https://user-images.githubusercontent.com/19898602/129755590-27cbf6c6-2c7b-4bf1-b61a-8a7a3bb42c4a.png)
