@@ -56,7 +56,7 @@ So lets begin the tutorial first we’ll see the list of components required.
 
 ## Circuit Drawing
 
-![image](https://user-images.githubusercontent.com/19898602/129753981-2d233d92-c267-4af6-9365-9770f90e267d.png)
+![image](https://user-images.githubusercontent.com/19898602/156958138-7229130c-1596-4108-833e-e6277e8dc97a.png)
 
 As you can see above given image is the basic circuit design of Variable voltage regulator using LM317 IC.
 
