@@ -1,7 +1,7 @@
 # How-to-make-LM317-based-Variable-Voltage-regulator
 
 
-![image](https://user-images.githubusercontent.com/19898602/129753641-4971a3f3-0418-47a7-869c-ad9b5a7308d2.png)
+![image](https://user-images.githubusercontent.com/19898602/156958138-7229130c-1596-4108-833e-e6277e8dc97a.png)
 
 
 Hello makers in this post we’ll learn how to make LM317 based variable voltage regulator circuit module.
