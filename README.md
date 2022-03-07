@@ -273,6 +273,7 @@ Hope you understand the concept very well this will help you to design your own 
 
 
 
+![How to make LM317 based variable voltage regulator](https://user-images.githubusercontent.com/19898602/156958701-e83f6a71-2579-4f66-9317-5ad544c4d807.gif)
 
 
 
